@@ -1,0 +1,11 @@
+name: t20-wed-geo
+channels:
+  - conda-forge
+dependencies:
+  - geopandas
+  - descartes
+  - jupyter
+  - contextily
+  - matplotlib
+  - mapclassify
+  - cartopy
