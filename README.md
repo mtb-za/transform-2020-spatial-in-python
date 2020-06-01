@@ -33,6 +33,8 @@ If you have conda installed, then `conda env create -f environment.yml` will set
 
 The easiest way to get up and running for this tutorial will be to clone the [github repository](https://github.com/mtb-za/transform-2020-spatial-in-python/). Note that some of the data files are zipped. These can be left as they are.
 
+Alternatively, a binder is available: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mtb-za/transform-2020-spatial-in-python/master) This will let you run it all in a browser without installing anything. It may take some time to initialise, so if you want to go with this option, it might be good to arrive a little bit early to set it up.
+
 ## Other sessions
 
 If you are interested in additional spatially-themed sessions specifically, the following may be of interest:
