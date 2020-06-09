@@ -1,4 +1,4 @@
-name: t20-wed-geo
+name: t20-fri-geo
 channels:
   - conda-forge
 dependencies:
