@@ -6,6 +6,8 @@ AUDIENCE: Intermediate
 
 INSTRUCTOR: Martin Bentley, Digital Geoscientist, [Agile](https://agilescientific.com/)
 
+Part of the [SoftwareUndergrounds](https://swu.ng) online conference, [TRANSFORM2020](https://transform2020.sched.com/).
+
 ### Video Stream:
 <a href="https://www.youtube.com/watch?v=t5FjmDwwTnA" target="_blank">Direct link to the live stream.
 </a>
@@ -17,7 +19,9 @@ As a short note, both ArcGIS and QGIS have their own flavour of Python (arcpy an
 
 ## Set-up
 ### Install-less (cloud) set-up
-A [binder version](https://mybinder.org/v2/gh/mtb-za/transform-2020-spatial-in-python/master) of this repository is available. Clicking that link will let you run everything in a browser without installing anything. It may take some time to initialise, so if you want to go with this option, it might be good to arrive a little bit early to set it up.
+A [binder version](https://mybinder.org/v2/gh/mtb-za/transform-2020-spatial-in-python/master) of this repository is available. Clicking that link will let you run everything in a browser without installing anything. It may take some time to initialise, so if you want to go with this option, it might be good to arrive a little bit early to set it up. 
+
+Because mybinder.org is a best-effort, free service, if there are many people attempting to use this service, it may be oversubscribed. If possible, it is recommended that you set up a local environment instead.
 
 ### Local set-up
 The easiest way to get up and running for this tutorial will be to clone the [github repository](https://github.com/mtb-za/transform-2020-spatial-in-python/). Note that some of the files the data folder are zipped. These can be left as they are, unless you are particularly curious.
@@ -48,4 +52,3 @@ If you are interested in additional spatially-themed sessions specifically, the 
 
 All have already happened, but the recordings of the live streams are still available via the [Software Underground YouTube channel](https://www.youtube.com/channel/UCeDefhvz7znDo29iOmqU_9A).
 
-All session details are available [here](https://transform2020.sched.com/).
